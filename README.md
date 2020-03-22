@@ -2,7 +2,7 @@
 Mini project about crud operation build by php and ajax.
 
 ## Screenshot of Project
-Index page:
+##### Index page:
 ![alt text](img/1.png "php ajax crud")
 Entry form:
 ![alt text](img/2.png "php ajax crud")
